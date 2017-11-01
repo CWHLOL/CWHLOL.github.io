@@ -6,13 +6,17 @@
 	<body>
 		<h1>Welcome to my website</h1>
 		<p>This is the first paragraph</p>
-		<p>This is another paragraph</p>
-h1 p {
-	color: red;
-	text-align: center;
-}
+		<p>This is another paragraph</p
 
 
 	</body>
 </html>
 
+h1 p {
+	color: red;
+	text-align: center;
+}
+p {
+	color: blue;
+background-color: lightgray;
+}
