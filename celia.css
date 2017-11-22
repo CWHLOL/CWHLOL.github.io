@@ -6,11 +6,26 @@ p {
 	color:black;
 	text-align: center;
 }
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+\
+li a:hover {
+    background-color: #555;
+    color: white;
+}\
+</style>
+</head>
+<body>
 
 
 ul	{
 	list-style-type: none;
-	background: MediumSeaGreen;
+	background: DodgerBlue;
 	width: 100px;
 	padding: 20px;
 	margin: 0;
